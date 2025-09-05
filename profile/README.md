@@ -8,12 +8,9 @@
 - [CSS](https://github.com/ezwebpub/web-basic_CSS)
 - [Javascript](https://github.com/ezwebpub/web-basic_Javascript)
 - [jQuery](https://github.com/ezwebpub/web-basic_jQuery)
-- [React](https:#)
-- [react *](https:#)
+- 진행에 따라 오픈됩니다.
 
 ## Backend
-- [express-api *](https:#)
-- [php *](https:#)
-- [mysql *](https:#)
-- [firebase *](https:#)
-- [supabase *](https:#)
+- Node.js, express server, php, mysql
+- firebase, supabase
+- 진행에 따라 오픈됩니다.
