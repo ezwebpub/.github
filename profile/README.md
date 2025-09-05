@@ -7,7 +7,8 @@
 - [HTML](https://github.com/ezwebpub/web-basic_HTML)
 - [CSS](https://github.com/ezwebpub/web-basic_CSS)
 - [Javascript](https://github.com/ezwebpub/web-basic_Javascript)
-- [React](https://github.com/ezwebpub/web-basic_jQuery)
+- [jQuery](https://github.com/ezwebpub/web-basic_jQuery)
+- [React](https:#)
 - [react *](https:#)
 
 ## Backend
