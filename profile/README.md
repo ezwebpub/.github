@@ -8,6 +8,7 @@
 - [CSS](https://github.com/ezwebpub/web-basic_CSS)
 - [Javascript](https://github.com/ezwebpub/web-basic_Javascript)
 - [jQuery](https://github.com/ezwebpub/web-basic_jQuery)
+- [typescript](https://github.com/ezwebpub/web-basic_typeScript)
 - bootstrap, sass, react, typescript
 - 진행에 따라 오픈됩니다.
 
