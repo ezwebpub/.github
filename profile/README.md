@@ -8,13 +8,13 @@
 ## Frontend
 - [HTML](https://github.com/ezwebpub/web-basic_HTML)
 - [CSS](https://github.com/ezwebpub/web-basic_CSS)
-- [Javascript](https:#)
-- [React](https:#)
-- [react](https:#)
+- [Javascript](https://github.com/ezwebpub/web-basic_Javascript)
+- [React *](https:#)
+- [react *](https:#)
 
 ## Backend
-- [express-api](https:#)
-- [php](https:#)
-- [mysql](https:#)
-- [firebase](https:#)
-- [supabase](https:#)
+- [express-api *](https:#)
+- [php *](https:#)
+- [mysql *](https:#)
+- [firebase *](https:#)
+- [supabase *](https:#)
