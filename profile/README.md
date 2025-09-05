@@ -13,8 +13,8 @@
 - [react](https:#)
 
 ## Backend
-- [express-api](https://#)
-- [php](https://#)
-- [mysql](https://#)
-- [firebase](https://#)
-- [supabase](https://#)
+- [express-api](https:#)
+- [php](https:#)
+- [mysql](https:#)
+- [firebase](https:#)
+- [supabase](https:#)
