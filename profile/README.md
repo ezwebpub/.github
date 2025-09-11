@@ -16,3 +16,12 @@
 - Node.js, express server, php, mysql
 - firebase, supabase
 - 진행에 따라 오픈됩니다.
+  
+## 도서
+- [웹 디자인 & 웹 퍼블리싱을 위한 피그마 완벽 활용서](https://product.kyobobook.co.kr/detail/S000001842187)
+- [코딩은 처음이라 with 웹 퍼블리싱](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931467321&orderClick=LEa&Kc)
+- [2025 SD에듀 유선배 웹디자인기능사 실기 과외노트](https://www.yes24.com/Product/Goods/136757366)
+
+## 온라인 강의
+- [인프런](https://www.inflearn.com/users/444512/@ezweb)
+- [클래스101](https://class101.net/ko/creators/@ezweb)
